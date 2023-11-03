@@ -1,0 +1,4 @@
+*.vsproj
+*.sln
+bin/
+*.csproj
