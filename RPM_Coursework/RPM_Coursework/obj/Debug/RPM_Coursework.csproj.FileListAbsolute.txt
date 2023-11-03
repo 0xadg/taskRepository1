@@ -1,0 +1,26 @@
+C:\Users\429193-10\source\repos\RPM_Coursework\RPM_Coursework\obj\Debug\RPM_Coursework.csprojAssemblyReference.cache
+C:\Users\429193-10\source\repos\RPM_Coursework\RPM_Coursework\obj\Debug\RPM_Coursework.csproj.GenerateResource.cache
+C:\Users\429193-10\source\repos\RPM_Coursework\RPM_Coursework\bin\Debug\RPM_Coursework.exe.config
+C:\Users\429193-10\source\repos\RPM_Coursework\RPM_Coursework\bin\Debug\RPM_Coursework.exe
+C:\Users\429193-10\source\repos\RPM_Coursework\RPM_Coursework\bin\Debug\RPM_Coursework.pdb
+C:\Users\429193-10\source\repos\RPM_Coursework\RPM_Coursework\obj\Debug\RPM_Coursework.Properties.Resources.resources
+C:\Users\429193-10\source\repos\RPM_Coursework\RPM_Coursework\obj\Debug\RPM_Coursework.csproj.CoreCompileInputs.cache
+C:\Users\429193-10\source\repos\RPM_Coursework\RPM_Coursework\obj\Debug\RPM_Coursework.exe
+C:\Users\429193-10\source\repos\RPM_Coursework\RPM_Coursework\obj\Debug\RPM_Coursework.pdb
+C:\Users\429193-10\source\repos\RPM_Coursework\RPM_Coursework\obj\Debug\RPM_Coursework.Forms.ChatForm.resources
+C:\Users\429193-10\source\repos\RPM_Coursework\RPM_Coursework\obj\Debug\RPM_Coursework.Forms.ConnectionForm.resources
+C:\Users\429193-10\source\repos\RPM_Coursework\RPM_Coursework\obj\Debug\RPM_Coursework.Forms.SettingsForm.resources
+C:\Users\429193-10\source\repos\RPM_Coursework\RPM_Coursework\obj\Debug\RPM_Coursework.Forms.ServerBrowserForm.resources
+E:\ye olde projekt\RPM_Coursework\RPM_Coursework\bin\Debug\RPM_Coursework.exe.config
+E:\ye olde projekt\RPM_Coursework\RPM_Coursework\bin\Debug\RPM_Coursework.exe
+E:\ye olde projekt\RPM_Coursework\RPM_Coursework\bin\Debug\RPM_Coursework.pdb
+E:\ye olde projekt\RPM_Coursework\RPM_Coursework\obj\Debug\RPM_Coursework.csproj.AssemblyReference.cache
+E:\ye olde projekt\RPM_Coursework\RPM_Coursework\obj\Debug\RPM_Coursework.Forms.ChatForm.resources
+E:\ye olde projekt\RPM_Coursework\RPM_Coursework\obj\Debug\RPM_Coursework.Forms.ConnectionForm.resources
+E:\ye olde projekt\RPM_Coursework\RPM_Coursework\obj\Debug\RPM_Coursework.Forms.ServerBrowserForm.resources
+E:\ye olde projekt\RPM_Coursework\RPM_Coursework\obj\Debug\RPM_Coursework.Forms.SettingsForm.resources
+E:\ye olde projekt\RPM_Coursework\RPM_Coursework\obj\Debug\RPM_Coursework.Properties.Resources.resources
+E:\ye olde projekt\RPM_Coursework\RPM_Coursework\obj\Debug\RPM_Coursework.csproj.GenerateResource.cache
+E:\ye olde projekt\RPM_Coursework\RPM_Coursework\obj\Debug\RPM_Coursework.csproj.CoreCompileInputs.cache
+E:\ye olde projekt\RPM_Coursework\RPM_Coursework\obj\Debug\RPM_Coursework.exe
+E:\ye olde projekt\RPM_Coursework\RPM_Coursework\obj\Debug\RPM_Coursework.pdb
