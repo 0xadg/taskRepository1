@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ArrayClass</name>
+    </assembly>
+    <members>
+        <member name="M:ArrayClass.ArrayClass.RemoveDividableNumbers(System.Int32[],System.Int32,System.Int32[]@)">
+            <summary>
+            Находит и удаляет все элементы массива, кратные заданному числу (делителю)
+            </summary>
+            <param name="input">Входной массив</param>
+            <param name="divider">Делитель</param>
+            <param name="indexes">Индексы удаленных элементов</param>
+            <returns>Измененный массив</returns>
+        </member>
+    </members>
+</doc>

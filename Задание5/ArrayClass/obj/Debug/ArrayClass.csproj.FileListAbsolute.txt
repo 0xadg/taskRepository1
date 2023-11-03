@@ -1,0 +1,13 @@
+c:\users\329193-12\source\repos\Задание5\ArrayClass\bin\Debug\ArrayClass.dll
+c:\users\329193-12\source\repos\Задание5\ArrayClass\bin\Debug\ArrayClass.pdb
+c:\users\329193-12\source\repos\Задание5\ArrayClass\obj\Debug\ArrayClass.csprojAssemblyReference.cache
+c:\users\329193-12\source\repos\Задание5\ArrayClass\obj\Debug\ArrayClass.csproj.CoreCompileInputs.cache
+c:\users\329193-12\source\repos\Задание5\ArrayClass\obj\Debug\ArrayClass.dll
+c:\users\329193-12\source\repos\Задание5\ArrayClass\obj\Debug\ArrayClass.pdb
+E:\Задание5\ArrayClass\bin\Debug\ArrayClass.dll
+E:\Задание5\ArrayClass\bin\Debug\ArrayClass.pdb
+E:\Задание5\ArrayClass\obj\Debug\ArrayClass.csprojAssemblyReference.cache
+E:\Задание5\ArrayClass\obj\Debug\ArrayClass.csproj.CoreCompileInputs.cache
+E:\Задание5\ArrayClass\obj\Debug\ArrayClass.dll
+E:\Задание5\ArrayClass\obj\Debug\ArrayClass.pdb
+E:\Задание5\ArrayClass\bin\Debug\ArrayClass.xml
